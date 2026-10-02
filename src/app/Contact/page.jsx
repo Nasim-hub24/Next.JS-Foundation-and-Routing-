@@ -1,6 +1,4 @@
 
-
-
 const ContactPage = () => {
     return (
         <div>
